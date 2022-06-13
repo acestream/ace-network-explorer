@@ -15,7 +15,7 @@ class Footer extends React.PureComponent {
             }
           </Col>
           <Col mdOffset={7} md={2}>
-            <a href="https://github.com/chatch/stellarexplorer">
+            <a href="https://github.com/acestream/ace-network-explorer">
               <img
                 src={`${process.env.PUBLIC_URL}/img/gh.svg`}
                 alt="github"
@@ -28,7 +28,7 @@ class Footer extends React.PureComponent {
         </Row>
         <Row>
           <Col mdOffset={10} md={2}>
-            <a href="https://github.com/chatch/stellarexplorer/issues">
+            <a href="https://github.com/acestream/ace-network-explorer/issues">
               <img
                 src={`${process.env.PUBLIC_URL}/img/support.svg`}
                 alt="support"
@@ -41,14 +41,14 @@ class Footer extends React.PureComponent {
         </Row>
         <Row>
           <Col mdOffset={10} md={2}>
-            <a href="https://stellar.org">
+            <a href="https://acestream.org">
               <img
-                src={`${process.env.PUBLIC_URL}/stellar.ico`}
-                alt="stellar"
+                src="https://www.acestream.org/img/favicon.ico"
+                alt="Ace Network"
                 height={20}
                 width={20}
               />
-              Stellar.org
+              acestream.org
             </a>
           </Col>
         </Row>

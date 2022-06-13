@@ -20,12 +20,7 @@ class Header extends React.Component {
         <Navbar.Header>
           <Navbar.Brand>
             <Link to="/">
-              <img
-                src={logoImg}
-                className="App-logo"
-                alt={formatMessage({id: 'logo'})}
-              />
-              <span className="brand-text">explorer</span>
+              <span className="brand-text">Ace Network Explorer</span>
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle />

@@ -9,7 +9,7 @@ import Row from 'react-bootstrap/lib/Row'
 // const fetch = FetchPonyfill().fetch
 
 // const BANNER_JSON =
-//   'https://raw.githubusercontent.com/chatch/stellarexplorer/master/banner.json'
+//   'https://raw.githubusercontent.com/acestream/ace-network-explorer/master/banner.json'
 
 const InfoBanner = ({message}) => (
   <Grid style={{marginBottom: 0}}>

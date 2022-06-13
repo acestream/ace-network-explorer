@@ -49,8 +49,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'react-json-pretty/src/JSONPretty.1337.css'
 import './App.css'
 
-const HOME_PUBLIC = 'https://steexp.com'
-const HOME_TESTNET = 'https://testnet.steexp.com'
+const HOME_PUBLIC = 'https://explorer.acestream.org'
+const HOME_TESTNET = 'https://testnet.explorer.acestream.org'
 
 const storage = storageInit()
 
